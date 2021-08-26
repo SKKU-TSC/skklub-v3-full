@@ -10,6 +10,8 @@ This is the official repository of SKKLUB v.3, which is due to be released on 20
 ---
 ## Todo
 
-[] Add docker
-[] Add github workflow
-[] Add wiki
+- [x] Add frontend submodule
+- [ ] Add backend submodule
+- [ ] Add docker
+- [ ] Add github workflow
+- [ ] Add wiki
