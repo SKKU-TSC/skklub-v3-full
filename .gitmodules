@@ -1,0 +1,3 @@
+[submodule "skklub-v3-frontend"]
+	path = skklub-v3-frontend
+	url = git@github.com:SKKU-TSC/skklub-v3-frontend.git
